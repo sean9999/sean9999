@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @sean9999
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi,
 
-<!---
-sean9999/sean9999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Sean Macdonald. 
+I'm interested in infrastructure and application architecture.
+I'm currently reading [Effective Go](https://go.dev/doc/effective_go) for the 3rd time.
+I'm looking to collaborate on interesting solutions to hard problems.
+You can reach me at hello@seanmacdonald.ca
+
+This README will be updated when I have some more time. In the meantime, please check out https://seanmacdonald.ca for a curated view of some of my projects
