@@ -2,7 +2,7 @@ Hi,
 
 I'm Sean Macdonald. 
 
-I'm interested in infrastructure and application architecture.
+I like working with code and infrastructure.
 
 I'm currently building a consensus protocol in Go. It aims to offer better scalability and convergence properties than Paxos and Raft. It does so by borrowing ideas from anthropology.
 
