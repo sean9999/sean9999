@@ -9,7 +9,3 @@ I have hobbies other than software engineering, but I can't remember what they a
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=977083)
 
 ![github-stats](https://github-readme-stats.vercel.app/api?username=sean9999&show_icons=true&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff")
-
-[![code_monk](https://stackoverflow-readme-profile.johannchopin.fr/docker/977083)](https://github.com/sean9999/stackoverflow-readme-profile)
-
-[![code_monk SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/977083?theme=monokai&website=true&location=true)](https://github.com/sean9999/stackoverflow-readme-profile)
