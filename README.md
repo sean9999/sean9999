@@ -4,7 +4,7 @@
 
 I work as Backend Go developer at [Hard Rock Digital](https://www.hardrockdigital.com/).
 
-I have hobbies other than software engineering, but I can't remember what they are at the moment. Still, I would like it if you thought of me as a well-rounded individual.
+I have hobbies other than software engineering, but I can't remember what they are at the moment.
 
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=977083)
 
