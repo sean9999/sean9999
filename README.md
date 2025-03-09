@@ -1,10 +1,10 @@
 ###  :man_technologist:  [Sean Macdonald](https://www.seanmacdonald.ca)
 
-👋 Hi, I'm Sean from Canada 🚀. I enjoy hacking in Go, Python, Bash, and Rust. I am especially passionate about cloud infrastruture, distributed systems, and open source.
+👋 I'm Sean from 🇨🇦. I enjoy hacking in Go, Python, Bash, and Rust. I am especially passionate about cloud infrastruture, distributed systems, and open source.
 
-I work as Backend Go developer at [Hard Rock Digital](https://www.hardrockdigital.com/).
+I work as Senior Go developer at [Hard Rock Digital](https://www.hardrockdigital.com/) 🤘
 
-I have hobbies other than software engineering, but I can't remember what they are at the moment.
+I play 🎸 and have 🐈 🐈. 
 
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=977083)
 
