@@ -10,5 +10,7 @@ I play 🎸 and have 🐈 🐈.
 
 ![Code Monk's GitHub stats](https://github-readme-stats.vercel.app/api?username=sean9999&theme=cobalt&show_icons=true&include_all_commits=true)
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=sean9999&show_icons=true&theme=transparent
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean9999&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
