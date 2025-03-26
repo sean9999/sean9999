@@ -1,6 +1,6 @@
 ###  :man_technologist:  [Sean Macdonald](https://www.seanmacdonald.ca)
 
-👋 I'm Sean from 🇨🇦. I enjoy hacking in Go, Python, Bash, Rust, and... stuff like that. I am especially passionate about cloud infrastruture, distributed systems, and open source.
+👋 I'm Sean from 🇨🇦. I enjoy hacking in Go, Python, Bash, Elixir, and... stuff like that. I am especially passionate about cloud infrastruture, distributed systems, and open source.
 
 I work as Senior Go developer at [Hard Rock Digital](https://www.hardrockdigital.com/) 🤘
 
