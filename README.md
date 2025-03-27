@@ -12,3 +12,6 @@ I play 🎸 and have 🐈 🐈.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean9999&size_weight=0.1&count_weight=0.9&hide=makefile,dockerfile,css&layout=pie&langs_count=6&theme=dracula)
 
+<a href="https://github.com/johannchopin/stackoverflow-readme-profile">
+  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/977083?theme=default&website=true&location=true" alt="user:977083's SO profile">
+</a>
